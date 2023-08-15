@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "title": "First Post",
+      "content": "Content of the first post...",
+      "date": "2023-08-15"
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "content": "Content of the second post...",
+      "date": "2023-08-16"
+    },
+    {
+      "id": "3",
+      "title": "Third Post",
+      "content": "Content of the third post...",
+      "date": "2023-08-17"
+    }
+  ]
+  
